@@ -1,6 +1,8 @@
 # Aster
  Android System Testing Environment and Runtime 
 
+https://kanru.info/slides/COSCUP_aster.svg
+
 # How to build and run ASTER
 
 NOTE: the instructions are valid for GNU/Linux at the moment.
